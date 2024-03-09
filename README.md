@@ -1,5 +1,14 @@
 # zkLink Audit Report
 
+
+## Secure3
+### Smart Contract
+
+- Report: [zklink_Nova_Secure3_Audit_Report.pdf](https://github.com/zkLinkProtocol/zklink-audit-report/blob/master/contract/zklink_Nova_Secure3_Audit_Report.pdf)
+- Codebase: [933e578a5df998af72109a57e8b9501f672cdf9f](https://github.com/zkLinkProtocol/zklink-evm-contracts)
+- Codebase: [e487cbb89dd62223d70ece7a2331f55860016a1c](https://github.com/zkLinkProtocol/era-contracts)
+- Date: 08/03/2024
+
 ## ABDK
 ### Circuits
 
